@@ -11,6 +11,7 @@ python main.py
 ```
 
 ### Features
+- Social Finder
 - Gender Finder
 - Is Under 18
 - html scraper
