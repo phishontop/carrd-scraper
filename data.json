@@ -1,0 +1,14 @@
+[
+    {
+        "type": "female",
+        "keywords": ["girl", "women", "female", "she/her", "she", "her"]
+    },
+    {
+        "type": "male",
+        "keywords": ["boy", "men", "male", "he/him", "he", "him"]
+    },
+    {   
+        "type": "kid",
+        "keywords": ["minor", "under 18", "kid"]
+    }
+]
